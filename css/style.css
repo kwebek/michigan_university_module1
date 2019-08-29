@@ -1,0 +1,20 @@
+nav ul {
+  list-style: none; /*delete li markers*/
+  margin: 0; /*delete margins*/
+  padding-left: 0; /*delete left padding*/
+}
+
+nav li {
+	display: inline;
+}
+
+progress {
+}
+
+.logo {
+	display: inline-block;
+}
+
+.footer_txt {
+	display: inline-block;
+}
