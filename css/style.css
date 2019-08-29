@@ -13,6 +13,7 @@ progress {
 
 .logo {
 	display: inline-block;
+	float:left;
 }
 
 .footer_txt {
